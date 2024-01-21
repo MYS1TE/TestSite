@@ -52,6 +52,8 @@ nav li:hover{
     transition: transform 2s;
 }
 body{
+    width: 890px;
+    magin: auto;
     color: cornsilk;
 }
 p{
