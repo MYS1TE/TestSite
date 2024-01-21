@@ -42,13 +42,11 @@ li a {
            border: 1px solid white;
        
     }
-}
-body{
-    width: 890px;
-    magin: auto;
+    body{
     background: rgb(169, 196, 196);
     background: linear-gradient(90deg, rgba(169, 196, 196, 1) 0%, rgba(117, 210, 210, 1) 50%, rgba(169, 196, 197, 1) 100%);
 }
+
 nav li:hover{
     transform: scale(1.1);
     transition: transform 2s;
